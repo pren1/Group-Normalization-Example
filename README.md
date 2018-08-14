@@ -1,5 +1,5 @@
 # Group-Normalization-Example
-This useless program lets you get a better understand of the Group Normalization~
+This useless program lets you get a better understanding of the Group Normalization~
 
 To use it, just run
 ```
